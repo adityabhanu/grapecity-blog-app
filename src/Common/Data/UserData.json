@@ -1,0 +1,37 @@
+{
+    "users" :  [
+        {
+        "userID" : 1,
+        "userName" : "Aditya Bhanu",
+        "email" : "aditya.bhanu@grapecity.com",
+        "password" : "aditya@12345"
+    },
+    {
+        "userID" : 2,
+        "userName" : "Blogger",
+        "email" : "blogger@grapecity.com",
+        "password" : "1qaz!QAZ"
+    },
+
+    {
+        "userID" : 3,
+        "userName" : "Grapecity Noida",
+        "email" : "gpnoida@grapecity.com",
+        "password" : "gpnoida@12345"
+    },
+
+    {
+        "userID" : 4,
+        "userName" : "Tanushree Mathur",
+        "email" : "tanushree@grapecity.com",
+        "password" : "tanushree@12345"
+    },
+
+    {
+        "userID" : 5,
+        "userName" : "Preeti Sharma",
+        "email" : "preeti.s@grapecity.com",
+        "password" : "preeti@12345"
+    }
+]
+}
